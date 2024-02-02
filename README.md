@@ -33,5 +33,7 @@ Structure of the project:
 I hope you liked my project, don’t forget to rate it and if you notice a code malfunction or any other errors.
 Don’t hesitate to correct them and be able to improve your project for others
 
+Please click the `star` button, if this project was helpful to you.
+
 🔴 Full Name (@MatveyGuralskiy)
 
