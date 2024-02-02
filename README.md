@@ -1,7 +1,7 @@
 # Flask-FirstSite
 🚀First Site Project on Python Flask this project for begginers, it's a web application built using Flask. It includes approximately 10 pages to form the content of the website.
 
-##📺 Preview
+## 📺 Preview
 
 
 ##👀Installation
