@@ -5,25 +5,22 @@
 
 
 ##👀Installation
-      ###Install Python
-      ###Install Flask:
-      pip install Flask
-     ###You can clone my repository if you want
-     git clone https://github.com/MatveyGuralskiy/Flask-FirstSite.git
+###Install Python
+###Install Flask:
+pip install Flask
+!You can clone my repository if you want
+git clone https://github.com/MatveyGuralskiy/Flask-FirstSite.git
 
 
-##📟Usage
- ###Run the application.py file
-      Flask-FirstSite-->application.py
-        Edit in 2 functions: INDEX,HELP_PAGE: 'YOUR PATH' and don't forget double slash '\\'
-        Press F5 or Run in Python
-        Now go to your Web browser and enter the link:
-        'http://127.0.0.1:5000/'
+📟Usage
+Run the application.py file
+Flask-FirstSite-->application.py
+Edit in 2 functions: INDEX,HELP_PAGE: 'YOUR PATH' and don't forget double slash '\\'
+Press F5 or Run in Python
+Now go to your Web browser and enter the link:
+'http://127.0.0.1:5000/'
 
-##🏗️Directory Structure
-
-Describe the structure of your project, including directories, files, their purposes, etc.
-lua
+🏗️Directory Structure
 
        /Flask-FirstSite
        |-- /Screenshots
