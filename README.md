@@ -3,7 +3,7 @@
 
 ## 📺 Preview
 
-![[Demonstraion Video](https://img.youtube.com/vi/xGXY5STkIak/maxresdefault.jpg)](https://www.youtube.com/watch?v=xGXY5STkIak)
+[![Demonstraion Video](https://img.youtube.com/vi/xGXY5STkIak/maxresdefault.jpg)](https://www.youtube.com/watch?v=xGXY5STkIak)
 
 
 ## 👀 Installation
