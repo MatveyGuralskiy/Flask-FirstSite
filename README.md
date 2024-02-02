@@ -8,6 +8,7 @@
 
 ## 👀 Installation
 ### Install Python
+https://www.python.org/downloads/
 ### Install Flask:
 pip install Flask
 
