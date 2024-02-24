@@ -84,8 +84,8 @@ def ABOUT_PAGE():
 
 
 #---------------------MAIN----------------------------
-if __name__=="__main__":
+if __name__=='__main__':
     application.debug=True
     application.env="FIRST SITE PROJECT"
-    application.run()
+    application.run(host='0.0.0.0', port=5000)
 
